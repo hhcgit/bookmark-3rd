@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  body{
+    background-color: rgba(255, 166, 0, 0.808);
+  }
+  main{
+    width:500px;
+    background-color:white;
+  }
+  .url-input{
+    font-size:18px;
+    width: 75%;
+  }
+  .url-submit{
+    font-size:15px;
+    padding: 5px;
+    display:inline-block;
+  }
+  .rating-input{
+    width:40px;
+  }
+  #description{
+    padding:5px;
+    font-family: Dokdo;
+  }
+  .saved-bookmark{
+    padding:10px;
+  }
+  .min-rating{
+    width:30px;
+  }
+  .hidden{
+    visibility: hidden;
+  }
+  
